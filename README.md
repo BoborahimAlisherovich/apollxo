@@ -1,3 +1,9 @@
+<div id="header" align="center">
+  <img src="https://raw.githubusercontent.com/rixon-cochi/rixon-cochi/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif" width="100"/>
+</div>
+
+
+
 - 👋 Hi, I’m @apollxo
 - 👀 I’m interested in Web devoloping
 - 🌱 I’m currently learning Javascript
